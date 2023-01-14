@@ -1,0 +1,212 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #1E1E1E;
+}
+.left-side{
+    position: absolute;
+    width: 333px;
+    height: 1075px;
+    left: 21px;
+    top: 19px;
+    
+    background: #262626;
+    border-radius: 50px;
+
+}
+
+.image1{
+    box-sizing: border-box;
+
+position: absolute;
+width: 222px;
+height: 222px;
+left: 76px;
+top: 75px;
+
+border: 2px solid #333333;
+border-radius: 1000px;
+}
+.right-side-top{
+    box-sizing: border-box;
+
+position: absolute;
+width: 1323px;
+height: 588px;
+left: 374px;
+top: 19px;
+
+background: #262626;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+}
+.right-side-bottom{
+    box-sizing: border-box;
+
+position: absolute;
+width: 1323px;
+height: 464px;
+left: 371px;
+top: 636px;
+
+background: #262626;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+}
+.title{
+    position: absolute;
+width: 231px;
+height: 36px;
+left: 20px;
+top: 75px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+a{
+    color:inherit;
+}
+.details{
+    position: absolute;
+width: 472px;
+height: 430px;
+left: 20px;
+top: 146px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+
+color: rgba(255, 255, 255, 0.5);
+}
+.image2{
+    position: absolute;
+width: 722px;
+height: 430px;
+left: 550px;
+top: 146px;
+
+
+border-radius: 20px;
+}
+.title1{
+    position: absolute;
+width: 231px;
+height: 36px;
+left: 20px;
+top: 30px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+
+color: #FFFFFF;
+}
+.table{
+    box-sizing: border-box;
+
+position: absolute;
+width: 1227px;
+height: 331px;
+left: 20px;
+top: 110px;
+
+}
+.table table{
+    width: 100%;
+    color: rgba(255, 255, 255, 0.5);
+    border-radius: 30px;
+border: 1px solid rgba(255, 255, 255, 0.5);
+}
+table tr td{
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+    border-right: 1px solid rgba(255, 255, 255, 0.5);
+    padding: 10px;
+}
+table tr:last-child >td{
+    border-bottom: 0px solid rgba(255, 255, 255, 0.5);
+    
+    
+}
+table tr td:last-child {
+    border-right: 0px solid rgba(255, 255, 255, 0.5);
+    
+    
+}
+.name{
+    position: absolute;
+width: 132px;
+height: 36px;
+left: 121px;
+top: 300px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.btn{
+    position: absolute;
+    width: 298px;
+    height: 61px;
+    left: 38px;
+    top: 430px;
+    
+    background: #111111;
+    border-radius: 30px;
+}
+.btn1{
+    
+position: absolute;
+width: 298px;
+height: 61px;
+left: 38px;
+top: 515px;
+
+background: #111111;
+border-radius: 30px;
+}
+.btn2{
+    position: absolute;
+width: 298px;
+height: 61px;
+left: 38px;
+top: 599px;
+
+background: #111111;
+border-radius: 30px;
+}
+.subtitle{
+    position: absolute;
+width: 87px;
+height: 27px;
+left: 144px;
+top: 367px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: rgba(255, 255, 255, 0.5);
+
+}
